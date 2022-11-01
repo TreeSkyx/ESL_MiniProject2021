@@ -1,5 +1,5 @@
 # ESL Mini Project - 2021
-#### _ESL recruitment, Computer engineering | KMITL_
+#### _ESL recruitment, Computer Engineering | KMITL_
 
 ### Project : Automatic Contactless Alcohol Dispenser
 
